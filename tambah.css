@@ -1,0 +1,59 @@
+body {
+	background-image:url('gambar/back4.png');
+	width:100%;
+
+}
+.judul h2{
+ margin-top:100px;
+color:#5A52CC;
+font-family: roboto;
+}
+
+.judul hr{
+    border:3px solid #5A52CC;
+    width:50%;
+    border-radius:40px;
+}
+
+.table1 {
+    margin-top:50px;
+	height: 100%; 
+    width:100%;	
+	position:relatif;
+    border-collapse: collapse;
+   
+}
+
+.table1, td{
+    padding: 10px 30px ;
+	font-family:roboto;
+	text-decoration:none;
+	
+}
+
+.table2 {
+    margin-top:30px;
+	height: 100%; 
+    width:100%;	
+	position:relatif;
+    border-collapse: collapse;
+   
+}
+
+.table2, td{
+    padding: 10px 30px ;
+	font-family:roboto;
+	text-decoration:none;
+	
+}
+
+.tombol, td {
+	margin-top:20px;
+	margin-left:30px;
+	
+}
+.tombo2, td {
+	margin-top:20px;
+	margin-left:30px;
+	
+}

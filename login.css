@@ -1,0 +1,142 @@
+*{margin:0px auto;}
+.wrap{
+	background:white;
+	position:relatif;	
+
+}
+ 
+/*bagian header*/
+.wrap .header{
+	 background:white;
+	height: 100%; 
+    width:100%;	
+	position:relatif;	
+} 
+.gambar{
+	position:relative;
+	margin-left:30px;
+	margin-top:3px;
+	padding:15px 0 15px 0;
+	float:left;
+}
+ 
+.menu{
+		width: 100%;
+        text-align: center;
+        font-family: roboto;	
+		position:relatif;	
+		
+}
+  
+.menu ul {
+  float: left;
+  padding:15px 90px 15px 40px;
+}
+
+#gambar{
+	 width:50%;
+	 float:left;
+	 margin-top:40px;
+	 margin-left:0px;
+	 margin-bottom:50px;
+ }
+ 
+ #gambar1{
+	 width:47%;
+	 float:right;
+	 margin-top:90px;
+	 
+ }
+
+.menu li {
+  float: right;
+  margin-right:10px;  
+}
+ .menu ul a{
+        display: block;
+        padding: 15px;
+        color: black;
+		font-size:15px;
+		font-family:roboto;
+        text-decoration: none;	
+    }
+	
+	
+		ul {
+  list-style: none;
+}
+
+ #gambar{
+	 width:55%;
+	 float:left;
+	 margin-top:70px;
+	 margin-left:30px;
+ }
+ 
+  #backlogin {
+    background: #5A52CC;
+    width: 33%;
+    height: 400px;
+    border-radius: 50px;
+    margin-top: 100px;
+	margin-right:100px;
+	float:right;
+  }
+ 
+ 
+  #backlogin form {
+   
+    float: left;
+    padding: 5px;
+	
+
+  }
+ 
+  #backlogin .inputa {
+    width: 90%;
+    height: 30px;
+    border: 0px;
+    border-bottom: 2px solid white;
+    font-size: 16px;
+    font-family: roboto;
+    background: transparent;
+  }
+ 
+  #backlogin .wed {
+
+    margin-top: 70px;
+    width: 30%;
+	margin-right:10px;
+	margin-left:10px;
+    height: 40px;
+    background: white;
+    color: #5A52CC;
+    font-family: roboto;
+    font-size: 20px;
+    border-radius: 10px;
+	
+  }
+  
+
+ 
+  #backlogin h1 {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: roboto;
+  }
+  
+ #backlogin p {
+	 color: white;
+	 float:left;
+	 font-family:roboto;
+	 margin-top:40px;
+	 margin-left:23px;
+ }
+  #backlogin hr {
+    width: 50%;
+    height: 4px;
+    border: none;
+    background: #5A52CC;
+  }
+  
